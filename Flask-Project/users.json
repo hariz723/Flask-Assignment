@@ -1,0 +1,9 @@
+[
+    {
+        "userid": 1001,
+        "username": "kevin",
+        "age": 29,
+        "city": "Toronto",
+        "country": "Canada"
+    }
+]
