@@ -33,7 +33,7 @@
    
    ![image](https://github.com/hariz723/Flask-Assignment/assets/110483479/88450883-5b0d-4102-a0d1-91834df8d7a3)
    
- - Data sucessfully Stored:
+ - Data Stored in mongoDB:
    
    ![image](https://github.com/hariz723/Flask-Assignment/assets/110483479/c1525079-8847-434a-ad7c-14ecef4b27a5)
 
